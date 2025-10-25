@@ -11,4 +11,4 @@ Hi, I am a Postdoctoral Associate in the [Department of Mechanical Engineering](
 
 Research Interests
 ======
-My research focuses on the mechanics of architected materials bridging engineered metamaterials, human bone, and biomedical scaffolds to advance musculoskeletal health through experimental, computational, and artificial intelligence methods. At the core of my research lies: leveraging mechanical principles of metamaterials to assess bone fracture risk, while simultaneously translating mechanical designs of metamaterials as scaffolds to support bone tissue regeneration.
+My research focuses on the **mechanics of architected materials** bridging engineered metamaterials, human bone, and biomedical scaffolds to advance musculoskeletal health through **experimental**, **computational**, and **artificial intelligence methods**. At the core of my research lies: <u>leveraging mechanical principles of metamaterials to assess bone fracture risk, while simultaneously translating mechanical designs of metamaterials as scaffolds to support bone tissue regeneration</u>.
