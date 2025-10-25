@@ -28,6 +28,6 @@ News
 
   <!-- Text on the right, limited to 3 lines -->
   <div style="width: 400px; line-height: 1.2; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">
-    <strong>Oct 25, 2025:</strong> Our work on "A data-driven framework for the modulus-density relationship of the human lumbar vertebral body" has been presented at the 2025 Orthopaedic Research Society Annual Meeting in Phoenix, Arizona.
+    <strong>Feb. 2025:</strong> Our work on "A data-driven framework for the modulus-density relationship of the human lumbar vertebral body" has been presented at the 2025 Orthopaedic Research Society Annual Meeting in Phoenix, Arizona.
   </div>
 </div>
