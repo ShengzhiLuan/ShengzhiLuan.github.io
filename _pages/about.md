@@ -23,5 +23,5 @@ My research focuses on the **mechanics of architected materials** bridging engin
 News
 ======
 <img src="../images/News_ORS.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Feb. 2025]</strong> Our work on <em>A Data-Driven Framework for the Modulus–Density Relationship of the Human Lumbar Vertebral Body</em> has been presented at the <strong>Orthopaedic Research Society 2025 Annual Meeting</strong> in Phoenix, Arizona.
+<strong>[Feb. 2025]</strong> Our work on <em>"A Data-Driven Framework for the Modulus–Density Relationship of the Human Lumbar Vertebral Body"</em> has been presented at the <strong>Orthopaedic Research Society 2025 Annual Meeting</strong> in Phoenix, Arizona.
 <div style="clear: both;"></div>
