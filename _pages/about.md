@@ -14,4 +14,8 @@ Research Interests
 My research focuses on the **mechanics of architected materials** bridging engineered metamaterials, human bone, and biomedical scaffolds to advance musculoskeletal health through **experimental**, **computational**, and **artificial intelligence methods**. At the core of my research lies: <u>leveraging mechanical principles of metamaterials to assess bone fracture risk, while simultaneously translating mechanical designs of metamaterials as scaffolds to support bone tissue regeneration</u>. Particularly, my research interests are:
 - Nonlinear mechanics and failure mechanisms of metamaterials
 - Machine learning-aided design of mechanically multifunctional metamaterials
+- Multiscale biomechanics of bone
+- Artificial intelligence-assisted clinical assessment of skeletal fragility
+- Mechanics-driven design of bone regenerative scaffolds
+
 ![Research Vision](../images/Research%20Vision.png "Research Vision")
