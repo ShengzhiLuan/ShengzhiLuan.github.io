@@ -22,7 +22,10 @@ My research focuses on the **mechanics of architected materials** bridging engin
 
 News
 ======
-<p>
-  <img src="../images/News-ORS.jpg" width="80" style="vertical-align: middle; margin-right: 10px;">
-  <strong>Oct 25, 2025:</strong> Our lab published a new paper on AI-assisted assessment of bone fragility.
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="../images/News-ORS.jpg" width="80" style="margin-right: 10px;">
+  <div>
+    <strong>Oct 25, 2025:</strong> Our lab published a new paper on AI-assisted assessment of bone fragility.
+  </div>
+</div>
+
