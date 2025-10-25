@@ -23,9 +23,9 @@ My research focuses on the **mechanics of architected materials** bridging engin
 News
 ======
 <img src="../images/News_JMBBM.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Mar. 2025]</strong> Our paper "A data-driven framework for developing a unified density–modulus relationship for the human lumbar vertebral body" is now online in the <strong>Journal of the Mechanical Behavior of Biomedical Materials</strong>.
+<strong>[Mar. 2025]</strong> Our paper <em>"A data-driven framework for developing a unified density–modulus relationship for the human lumbar vertebral body"</em> is now online in the <strong>Journal of the Mechanical Behavior of Biomedical Materials</strong>.
 <div style="clear: both;"></div>
 
 <img src="../images/News_ORS.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Feb. 2025]</strong> Our work on "A Data-Driven Framework for the Modulus–Density Relationship of the Human Lumbar Vertebral Body" has been presented at the <strong>Orthopaedic Research Society 2025 Annual Meeting</strong> in Phoenix, Arizona.
+<strong>[Feb. 2025]</strong> Our work on <em>"A Data-Driven Framework for the Modulus–Density Relationship of the Human Lumbar Vertebral Body"</em> has been presented at the <strong>Orthopaedic Research Society 2025 Annual Meeting</strong> in Phoenix, Arizona.
 <div style="clear: both;"></div>
