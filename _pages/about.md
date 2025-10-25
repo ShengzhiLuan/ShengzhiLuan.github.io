@@ -27,7 +27,7 @@ News
 <div style="clear: both;"></div>
 
 <img src="../images/News_USACM.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[May 2025]</strong> I am glad to announce the establishment of the U.S. Association for Computational Mechanics (USACM) Local Student Chapter at Boston University and I am honored to serve as its Chair — <strong>stay tuned for our upcoming events!</strong>
+<strong>[May 2025]</strong> I am glad to announce the establishment of the U.S. Association for Computational Mechanics (<a href="https://www.usacm.org/" target="_blank">USACM</a>) Local Student Chapter at Boston University and I am honored to serve as its Chair — <strong>stay tuned for our upcoming events!</strong>
 <div style="clear: both;"></div>
 
 <img src="../images/News_JMBBM.png" width="150" height="100" style="float: left; margin-right: 10px;">
@@ -35,5 +35,5 @@ News
 <div style="clear: both;"></div>
 
 <img src="../images/News_ORS.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Feb. 2025]</strong> Our <a href="https://www.ors.org/wp-content/uploads/AM25/1680.pdf" target="_blank">work</a> on <em>"A Data-Driven Framework for the Modulus–Density Relationship of the Human Lumbar Vertebral Body"</em> has been presented at the <strong>Orthopaedic Research Society 2025 Annual Meeting</strong> in Phoenix, Arizona.
+<strong>[Feb. 2025]</strong> Our <a href="https://www.ors.org/wp-content/uploads/AM25/1680.pdf" target="_blank">work</a> on <em>"A data-driven framework for the modulus-density relationship of the human lumbar vertebral body"</em> has been presented at the <strong>Orthopaedic Research Society 2025 Annual Meeting</strong> in Phoenix, Arizona.
 <div style="clear: both;"></div>
