@@ -23,7 +23,7 @@ My research focuses on the **mechanics of architected materials** bridging engin
 News
 ======
 <img src="../images/News_USNCTAM.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Mar. 2025]</strong> Our paper <em>"We are organizing a symposium on <em>Machine Learning in Biomechanics and Mechanobiology</em> at the 2026 U.S. National Committee for Theoretical and Applied Mechanics conference. <strong>Abstract submissions are welcome!</strong>
+<strong>[Mar. 2025]</strong>We are organizing a symposium on <em>Machine Learning in Biomechanics and Mechanobiology</em> at the 2026 U.S. National Committee for Theoretical and Applied Mechanics conference. <strong>Abstract submissions are welcome!</strong>
 <div style="clear: both;"></div>
 
 <img src="../images/News_JMBBM.png" width="150" height="100" style="float: left; margin-right: 10px;">
