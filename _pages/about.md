@@ -27,7 +27,7 @@ News
 <div style="clear: both;"></div>
 
 <img src="../images/News_USACM.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Mar. 2025]</strong> I am honored to serve as Chair of the newly approved U.X. Association for Computational Mechanics (USACM) Local Student Chapter at Boston University - <strong>stay tuned for our upcoming events!</strong>
+<strong>[Apr. 2025]</strong> I am honored to serve as Chair of the newly approved U.X. Association for Computational Mechanics (USACM) Local Student Chapter at Boston University - <strong>stay tuned for our upcoming events!</strong>
 <div style="clear: both;"></div>
 
 <img src="../images/News_JMBBM.png" width="150" height="100" style="float: left; margin-right: 10px;">
