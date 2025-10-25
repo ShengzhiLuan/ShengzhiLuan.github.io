@@ -23,7 +23,7 @@ repository               : "ShengzhiLuan/ShengzhiLuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Me.jpg"
   name             : "Shengzhi Luan"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Associate in The Skeletal Mechanobiology and Biomechanics Lab"
