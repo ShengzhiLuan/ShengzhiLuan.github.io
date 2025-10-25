@@ -31,7 +31,7 @@ News
 <div style="clear: both;"></div>
 
 <img src="../images/News_JMBBM.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Mar. 2025]</strong> Our paper <em>"A data-driven framework for developing a unified density-modulus relationship for the human lumbar vertebral body"</em> is now online in the <strong>Journal of the Mechanical Behavior of Biomedical Materials</strong>.
+<strong>[Mar. 2025]</strong> Our <a href="https://www.sciencedirect.com/science/article/pii/S1751616125000049?casa_token=o3IO8bhJ5xgAAAAA:itXt99_v_dnLwhjoUpteGpB9SAwhrGUkZTYTFvMn_Jc0gL-SWpmK9i-Ij4JJvlR56kN7pIZ5hwo" target="_blank">paper</a> <em>"A data-driven framework for developing a unified density-modulus relationship for the human lumbar vertebral body"</em> is now online in the <strong>Journal of the Mechanical Behavior of Biomedical Materials</strong>.
 <div style="clear: both;"></div>
 
 <img src="../images/News_ORS.png" width="150" height="100" style="float: left; margin-right: 10px;">
