@@ -14,7 +14,7 @@ Description of subproject 1: what was done, key findings, etc.
 
 Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc.
 
-<img src='../images/Research_Fracture.png' style='width:1000px; margin-top:10px; margin-bottom:10px;'>
+<img src='../images/Research_Fracture.png' style='width:900px; margin-top:10px; margin-bottom:10px;'>
 
 ### •  Shock impact dynamics of metamaterials
 
