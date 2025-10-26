@@ -12,9 +12,9 @@ Description of subproject 1: what was done, key findings, etc.
 
 ### •  Fracture mechanics of metamaterials
 
-Description of subproject 2: modeling methods, simulations, etc.
+Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc. Description of subproject 2: modeling methods, simulations, etc.
 
-<img src='/images/figure2.png' style='margin-top:10px; margin-bottom:10px;'>
+<img src='../images/Research_Fracture.png' style='display:block; margin: 10px auto; width:900px;'>
 
 ### •  Shock impact dynamics of metamaterials
 
