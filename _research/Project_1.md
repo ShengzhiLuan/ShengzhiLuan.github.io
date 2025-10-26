@@ -3,7 +3,7 @@ title: "Nonlinear Mechanics and Failure Mechanisms of Metamaterials"
 collection: research
 date: 2025-10-26
 ---
-## Subproject 1: Experimental Imaging
+- Instability, plasticity, and damage in metamaterials
 
 <img src='/images/figure1.png' style='margin-top:10px; margin-bottom:10px;'>
 
