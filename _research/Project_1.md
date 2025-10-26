@@ -1,7 +1,22 @@
 ---
 title: "Nonlinear Mechanics and Failure Mechanisms of Metamaterials"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png' style='margin-top:20px;'>"
 collection: research
+date: 2025-10-26
 ---
+## Subproject 1: Experimental Imaging
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/figure1.png' style='margin-top:10px; margin-bottom:10px;'>
+
+Description of subproject 1: what was done, key findings, etc.
+
+## Subproject 2: Computational Modeling
+
+<img src='/images/figure2.png' style='margin-top:10px; margin-bottom:10px;'>
+
+Description of subproject 2: modeling methods, simulations, etc.
+
+## Subproject 3: Data Analysis
+
+<img src='/images/figure3.png' style='margin-top:10px; margin-bottom:10px;'>
+
+Description of subproject 3: results, correlations, insights.
