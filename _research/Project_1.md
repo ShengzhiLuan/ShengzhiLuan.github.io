@@ -20,4 +20,4 @@ Description of subproject 2: modeling methods, simulations, etc. Description of 
 
 Description of subproject 3: results, correlations, insights.
 
-<img src='/images/figure3.png' style='margin-top:10px; margin-bottom:10px;'>
+<img src='../images/Research_Shock.png' style='display:block; margin: 10px auto; width:900px;'>
