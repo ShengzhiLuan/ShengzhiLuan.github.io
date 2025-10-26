@@ -1,6 +1,20 @@
 ---
-title: "Multiscale Modeling of Human Bone Mechanics"
-excerpt: "Investigating bone structure and mechanical behavior across scales using finite element modeling."
-date: 2025-10-26
+title: "Teaching experience 2"
+collection: research
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
-This project combines experimental imaging and computational modeling to predict bone stiffness and strength.
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
