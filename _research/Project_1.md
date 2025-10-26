@@ -1,5 +1,5 @@
 ---
-title: "Research item number 1"
+title: "Nonlinear Mechanics and Failure Mechanisms of Metamaterials"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: research
 ---
