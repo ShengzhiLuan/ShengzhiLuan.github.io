@@ -6,31 +6,36 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>
+  Luan, S., Chen, E., John, J., & Gaitanaros, S. (2023). A data-driven framework for structure-property correlation in ordered and disordered cellular metamaterials. <i>Science Advances</i>, 9(41), eadi1453.
+  <a href="https://www.science.org/doi/10.1126/sciadv.adi1453" target="_blank" class="btn">View Paper</a>
+</p>
 
+<p>
+  Another, A., Author, B. (2022). Title of another paper. <i>Journal Name</i>, 5(3), 123-130.
+  <a href="https://link.to.paper" target="_blank" class="btn">View Paper</a>
+</p>
 
-
+<style>
+.btn {
+  display: inline-block;
+  background-color: #007acc;
+  color: white;
+  padding: 4px 10px;
+  margin-left: 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9em;
+  transition: background 0.2s ease;
+}
+.btn:hover {
+  background-color: #005fa3;
+}
+</style>
