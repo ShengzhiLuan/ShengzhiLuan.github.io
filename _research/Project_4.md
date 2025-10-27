@@ -12,6 +12,6 @@ To quantify deformation from continuous experimental biomedical imaging of speci
 
 ### •  Experimental deformation tracking via imaging
 
-Using our software on continuous imaging data, we successfully track the experimental deformation of specimens, from the cellular to the tissue level. The measured deformation can be analyzed directly or incorporated into corresponding computational models as boundary conditions or field inputs, bridging experimental observations with predictive simulations.
+Using our software on continuous imaging data, we successfully track the experimental deformation of specimens, ranging from cellular to tissue level depending on the imaging resolution. The measured deformation can be analyzed directly or incorporated into corresponding computational models as boundary conditions or field inputs, bridging experimental observations with predictive simulations.
 
 <img src='../images/Research_DVC_Video.gif' style='display:block; margin: 10px auto; width:900px;'>
