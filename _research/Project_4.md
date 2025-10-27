@@ -14,4 +14,4 @@ To quantify deformation from continuous experimental biomedical imaging of speci
 
 In bone biomechanics modeling, in silico models constructed from standard-resolution imaging lack adequate microstructural details and sufficient validation, whereas models built from high-resolution imaging demand excessive computational resources and prohibitively high radiation doses. Hence, we develop a data-driven multiscale modeling framework aimed at estimating human vertebral performance both accurately and efficiently, with strong potential for clinical translation.
 
-<img src='../images/Research_Bone_2.png' style='display:block; margin: 10px auto; width:900px;'>
+<img src='../images/Research_DVC_Video.png' style='display:block; margin: 10px auto; width:900px;'>
