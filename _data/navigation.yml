@@ -15,7 +15,7 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /assets/CV.pdf
+    url: /CV/
     
   # - title: "CV"
   #   url: /cv-json/
