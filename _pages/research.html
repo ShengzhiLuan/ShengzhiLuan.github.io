@@ -21,9 +21,18 @@ author_profile: true
     border-radius: 6px;
     margin-bottom: 5px;
     transition: background-color 0.2s ease;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   .collapsible:hover {
     background-color: #e5e5e5;
+  }
+  .collapsible .arrow {
+    transition: transform 0.2s ease;
+  }
+  .collapsible.active .arrow {
+    transform: rotate(90deg);
   }
   .content {
     display: none;
@@ -33,7 +42,10 @@ author_profile: true
 </style>
 
 {% for post in site.research %}
-  <button type="button" class="collapsible">{{ post.title }}</button>
+  <button type="button" class="collapsible">
+    {{ post.title }}
+    <span class="arrow">▶</span>
+  </button>
   <div class="content">
     {{ post.content | markdownify }}
   </div>
@@ -42,6 +54,7 @@ author_profile: true
 <script>
   document.querySelectorAll(".collapsible").forEach(button => {
     button.addEventListener("click", () => {
+      button.classList.toggle("active");
       const content = button.nextElementSibling;
       content.style.display = content.style.display === "block" ? "none" : "block";
     });
