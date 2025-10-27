@@ -12,6 +12,6 @@ The vast number of microstructural features and their intricate interactions sig
 
 ### •  Structure-property correlations in metamaterials
 
-The presence of microstructure in metamaterials redistributes the stress intensity field ahead of the crack, invalidating the centric assumption of universal near crack-tip fields. Hence, the fracture mechanics of metamaterials is investigated through a global energy-based framework, and fracture energy is shown to be a more appropriate metric of fracture resistance than the conventional fracture toughness.
+Using interpretable machine learning algorithms, we identify a clear hierarchy of microstructural features governing mechanical properties: relative density primarily modulates the overall stiffness level; nodal connectivity or cell compactness serves as secondary factor, with extreme values pushing stiffness towards the upper or lower bounds; within the intermediate regime, strut orientation becomes the decisive factor determining the final stiffness value.
 
 <img src='../images/Research_Data_Correlation.png' style='display:block; margin: 10px auto; width:900px;'>
