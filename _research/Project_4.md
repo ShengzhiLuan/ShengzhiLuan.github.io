@@ -1,5 +1,5 @@
 ---
-title: "Digital Volume Correlation in Biomedical Imaging"
+title: "Digital Volume Correlation on Biomedical Imaging"
 collection: research
 date: 2025-10-26
 ---
