@@ -18,6 +18,6 @@ The presence of microstructure in metamaterials redistributes the stress intensi
 
 ### •  Shock impact dynamics of metamaterials
 
-The dynamic performance of metamaterials is counterintuitively only minimally affected by their microstructural details and is instead governed by total mass, quasi-static strength, and the rate-dependent hardening of the parent solid. As a result, two topologies with distinct morphological characteristics but identical density and quasi-static strength exhibit very similar dynamic behavior under shock impact.
+The dynamic performance of metamaterials is counterintuitively only minimally affected by their microstructural details and is instead governed by total mass, quasi-static strength, and the rate-dependent hardening of the parent solid. As a result, two topologies with distinct morphological characteristics but identical density and quasi-static strength exhibit similar dynamic stress level under shock impact.
 
 <img src='../images/Research_Shock.png' style='display:block; margin: 10px auto; width:900px;'>
