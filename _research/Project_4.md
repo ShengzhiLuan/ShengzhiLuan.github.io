@@ -1,10 +1,10 @@
 ---
-title: "Data-Driven Computational Biomechanics of Bone"
+title: "Digital Volume Correlation in Biomedical Imaging"
 collection: research
 date: 2025-10-26
 ---
 
-### •  Vertebral density-modulus relationship
+### •  Software — Your DVC
 
 Computed tomography-based computational modeling offers a promising approach to representing bone tissue distribution; however, local structure-property mapping has largely relied on experiments that typically focus only on the centric region of the vertebra, often producing results that differ significantly. Here, we develop a data-driven framework that integrates imaging, experimental testing, and numerical modeling of human lumbar vertebrae to establish a unified density-modulus relationship across the entire vertebral body.
 
