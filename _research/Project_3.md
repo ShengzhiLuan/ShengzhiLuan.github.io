@@ -14,4 +14,4 @@ The vast number of microstructural features and their intricate interactions sig
 
 Using interpretable machine learning algorithms, we identify a clear hierarchy of microstructural features governing mechanical properties: relative density primarily modulates the overall stiffness level; nodal connectivity or cell compactness serves as secondary factor, with extreme values pushing stiffness towards the upper or lower bounds; within the intermediate regime, strut orientation becomes the decisive factor determining the final stiffness value.
 
-<img src='../images/Research_Data_Correlation.png' style='display:block; margin: 10px auto; width:900px;'>
+<img src='../images/Research_Bone_2.png' style='display:block; margin: 10px auto; width:900px;'>
