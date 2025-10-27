@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="{{ site.baseurl }}/_images/CV.pdf" width="100%" height="1000px">
+<iframe src="/assets/pdf/CV.pdf" width="100%" height="1000px">
     Your browser does not support PDFs. 
-    <a href="{{ site.baseurl }}/_images/CV.pdf" target="_blank">Download CV</a>.
+    <a href="/assets/pdf/CV.pdf" target="_blank">Download CV</a>.
 </iframe>
