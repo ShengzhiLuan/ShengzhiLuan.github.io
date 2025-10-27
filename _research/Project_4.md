@@ -6,7 +6,7 @@ date: 2025-10-26
 
 ### •  Software — Your DVC
 
-Computed tomography-based computational modeling offers a promising approach to representing bone tissue distribution; however, local structure-property mapping has largely relied on experiments that typically focus only on the centric region of the vertebra, often producing results that differ significantly. Here, we develop a data-driven framework that integrates imaging, experimental testing, and numerical modeling of human lumbar vertebrae to establish a unified density-modulus relationship across the entire vertebral body.
+To quantify deformation from continuous experimental biomedical imaging of specimens, we developed a digital volume correlation software, Your DVC. This open-source software can measure the deformation of a series of biomedical images (more than two) of a specimen, with control over interpolation order, regularization type and coefficient, and the initial field guess, enabling accurate voxel-level displacement and strain analysis.
 
 <img src='../images/Research_DVC_Framework.png' style='display:block; margin: 10px auto; width:900px;'>
 
