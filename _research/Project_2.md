@@ -6,7 +6,7 @@ date: 2025-10-26
 
 ### •  Macroscopic property prediction in metamaterials
 
-Despite comparable macroscopic compressive responses, metamaterials composed of different parent solids exhibit distinct failure mechanisms: elastomeric foams buckle via instability governed by microstructural anisotropy and polydispersity, metallic foams fold through yielding influenced by the plastic hardening of the parent solid, and carbon foams deform through progressive damage driven by stress concentrations at nodal joints.
+The vast number of microstructural features and their intricate interactions significantly hindered property estimation in metamaterials. Here, we generate a virtual dataset of over 8,000 ordered and disordered microstructures and develop a machine learning model for the accurate prediction of their macroscopic mechanical properties directly from their microstructures.
 
 <img src='../images/Research_Data_Prediction.png' style='display:block; margin: 10px auto; width:900px;'>
 
