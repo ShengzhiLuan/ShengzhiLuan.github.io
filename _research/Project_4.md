@@ -12,6 +12,6 @@ To quantify deformation from continuous experimental biomedical imaging of speci
 
 ### •  Experimental deformation tracking via imaging
 
-In bone biomechanics modeling, in silico models constructed from standard-resolution imaging lack adequate microstructural details and sufficient validation, whereas models built from high-resolution imaging demand excessive computational resources and prohibitively high radiation doses. Hence, we develop a data-driven multiscale modeling framework aimed at estimating human vertebral performance both accurately and efficiently, with strong potential for clinical translation.
+Using our software on continuous imaging data, we successfully track the experimental deformation of specimens, from the cellular to the tissue level. The measured deformation can be analyzed directly or incorporated into corresponding computational models as boundary conditions or field inputs, bridging experimental observations with predictive simulations.
 
 <img src='../images/Research_DVC_Video.gif' style='display:block; margin: 10px auto; width:900px;'>
