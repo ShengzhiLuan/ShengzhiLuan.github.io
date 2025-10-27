@@ -8,7 +8,7 @@ date: 2025-10-26
 
 Description of subproject 1: what was done, key findings, etc.
 
-<img src='/images/figure1.png' style='margin-top:10px; margin-bottom:10px;'>
+<img src='../images/Research_Strength.png' style='display:block; margin: 10px auto; width:900px;'>
 
 ### •  Fracture mechanics of metamaterials
 
