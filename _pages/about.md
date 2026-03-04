@@ -22,6 +22,10 @@ My research focuses on the **mechanics of architected materials** bridging engin
 
 News
 ======
+<img src="../images/npj.png" width="150" height="100" style="float: left; margin-right: 10px;">
+<strong>[Oct. 2025]</strong> Our <a href="[https://www.sciencedirect.com/science/article/pii/S1751616125000049?casa_token=o3IO8bhJ5xgAAAAA:itXt99_v_dnLwhjoUpteGpB9SAwhrGUkZTYTFvMn_Jc0gL-SWpmK9i-Ij4JJvlR56kN7pIZ5hwo](https://www.nature.com/articles/s44455-025-00017-2)" target="_blank">paper</a> <em>"Tension-compression asymmetry in brittle lattice metamaterials"</em> is now online in the <strong>npj Metamaterials</strong>.
+<div style="clear: both;"></div>
+
 <img src="../images/News_USNCTAM.png" width="150" height="100" style="float: left; margin-right: 10px;">
 <strong>[Oct. 2025]</strong> We are organizing a symposium on <em>Machine Learning in Biomechanics and Mechanobiology</em> at the 2026 U.S. National Committee for Theoretical and Applied Mechanics conference (<a href="https://www.usnctam26.org/" target="_blank">USNC-TAM26</a>) — <strong>abstract submissions are welcome!</strong>
 <div style="clear: both;"></div>
