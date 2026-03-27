@@ -22,6 +22,10 @@ My research focuses on the **mechanics of architected materials** bridging engin
 
 News
 ======
+<img src="../images/News_JBMR.png" width="150" height="100" style="float: left; margin-right: 10px;">
+<strong>[Mar. 2026]</strong> Our <a href="https://https://academic.oup.com/jbmr/advance-article-abstract/doi/10.1093/jbmr/zjag040/8534420?redirectedFrom=PDF" target="_blank">paper</a> <em>"From imaging to insight: biomechanical CT for fracture risk prediction"</em> is now online in the <strong> Journal of Bone and Mineral Research</strong>.
+<div style="clear: both;"></div>
+
 <img src="../images/npj.png" width="150" height="100" style="float: left; margin-right: 10px;">
 <strong>[Mar. 2026]</strong> Our <a href="https://www.nature.com/articles/s44455-025-00017-2" target="_blank">paper</a> <em>"Tension-compression asymmetry in brittle lattice metamaterials"</em> is now online in the <strong>npj Metamaterials</strong>.
 <div style="clear: both;"></div>
