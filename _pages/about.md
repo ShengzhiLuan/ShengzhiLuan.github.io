@@ -18,7 +18,7 @@ My research focuses on the **mechanics of architected materials** bridging engin
 - Artificial intelligence-assisted clinical assessment of skeletal fragility
 - Mechanics-driven design of bone regenerative scaffolds
 
-![Research Vision](../images/Research%20Vision.png "Research Vision")
+![Research Vision](../images/Research%20Vision%202027.png "Research Vision")
 
 News
 ======
