@@ -20,6 +20,10 @@ My research lies at the intersection of mechanics, materials, biology, and artif
 
 News
 ======
+<img src="../images/USNCTAM26.jfif" width="150" height="100" style="float: left; margin-right: 10px;">
+<strong>[Mar. 2026]</strong> We successfully organized the symposium on <em>Machine Learning in Biomechanics and Mechanobiology</em> and have presented our work on <em>"A data-driven multiscale modeling framework for human vertebral mechanical behavior"</em> at the 2026 U.S. National Committee for Theoretical and Applied Mechanics conference (<a href="https://www.usnctam26.org/" target="_blank">USNC-TAM26</a>).
+<div style="clear: both;"></div>
+
 <img src="../images/News_ORS.png" width="150" height="100" style="float: left; margin-right: 10px;">
 <strong>[Mar. 2026]</strong> Our <a href="https://www.ors.org/wp-content/uploads/AM26/1557.pdf" target="_blank">work</a> on <em>"Data-driven multiscale modeling for vertebral trabecular elasticity"</em> has been presented at the <strong>Orthopaedic Research Society 2026 Annual Meeting</strong> in Charlotte, North Carolina.
 <div style="clear: both;"></div>
