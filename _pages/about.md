@@ -33,7 +33,7 @@ News
 <div style="clear: both;"></div>
 
 <img src="../images/TAMU.png" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Mar. 2026]</strong> Dr. Luan has given an invited talk on <em>"Data-driven design and manufacturing of architected materials: Engineering solutions to industrial and clinical challenges"</em> at the Department of Engineering Technology and Industrial Distribution,<strong> Texas A&M University</strong>.
+<strong>[Mar. 2026]</strong> I gave an invited talk on <em>"Data-driven design and manufacturing of architected materials: Engineering solutions to industrial and clinical challenges"</em> at the Department of Engineering Technology and Industrial Distribution,<strong> Texas A&M University</strong>.
 <div style="clear: both;"></div>
 
 <img src="../images/News_JBMR.jpg" width="150" height="100" style="float: left; margin-right: 10px;">
