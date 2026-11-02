@@ -11,9 +11,9 @@ Hi, I am a Senior Postdoctoral Associate in the Department of Mechanical Enginee
 
 Research Interests
 ======
-My research lies at the **intersection of mechanics, materials, biology, and artificial intelligence within the broad realm of architected materials**, integrating engineered metamaterials, human bone, and biomedical scaffolds. Specifically, I seek to <u><em>1) uncover the underlying physical and mechanical principles governing the performance of architected materials, spanning from engineered metamaterials to human bone</em></u>; and simultaneously <u><em>2) leverage artificial intelligence to establish predictive structure-property relationships and enable the mechanics-informed design of next-generation programmable materials for diverse engineering applications, particularly biomedical scaffolds.</em></u> These goals are pursued through the following research thrusts:
+My research lies at the **intersection of mechanics, materials, biology, and artificial intelligence within the broad realm of architected materials**, integrating engineered metamaterials, human bone, and biomedical scaffolds. Specifically, I seek to 1) <u><em>uncover the underlying physical and mechanical principles governing the performance of architected materials, spanning from engineered metamaterials to human bone</em></u>; and simultaneously 2) <u><em>leverage artificial intelligence to establish predictive structure-property relationships and enable the mechanics-informed design of next-generation programmable materials for diverse engineering applications, particularly biomedical scaffolds</em></u>. These goals are pursued through the following research thrusts:
 - Mechanics, design, and manufacturing of engineered metamaterials
-- ata-driven multiscale mechanics of human bone
+- Data-driven multiscale mechanics of human bone
 - Generative AI for discovery and design of multifunctional architected materials
 
 ![Research Vision](../images/Research%20Vision%202027.png "Research Vision")
