@@ -20,8 +20,8 @@ My research lies at the intersection of mechanics, materials, biology, and artif
 
 News
 ======
-<img src="../images/Safety.jpg" width="150" height="100" style="float: left; margin-right: 10px;">
-<strong>[Mar. 2026]</strong> Our <a href="https://www.sciencedirect.com/science/article/pii/S0925753526003024" target="_blank">paper</a> <em>"From occurrence to consequence: Unraveling urban building fire risk"</em> is now online in the <strong> Safety Science</strong>.
+<img src="../images/Safety.png" width="150" height="100" style="float: left; margin-right: 10px;">
+<strong>[Aug. 2026]</strong> Our <a href="https://www.sciencedirect.com/science/article/pii/S0925753526003024" target="_blank">paper</a> <em>"From occurrence to consequence: Unraveling urban building fire risk"</em> is now online in the <strong> Safety Science</strong>.
 <div style="clear: both;"></div>
 
 <img src="../images/USNCTAM26.jfif" width="150" height="100" style="float: left; margin-right: 10px;">
