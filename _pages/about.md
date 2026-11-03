@@ -21,7 +21,7 @@ My research lies at the intersection of mechanics, materials, biology, and artif
 News
 ======
 <img src="../images/USNCCM19.png" width="150" height="100" style="float: left; object-fit: contain; margin-right: 10px; margin-bottom: 5px;">
-<strong>[Oct. 2025]</strong> We are organizing a symposium on <em>Artificial Intelligence in Computational Biomechanics and Mechanobiology</em> at the 19th U.S. National Congress on Computational Mechanics (<a href="https://usnccm19.usacm.org" target="_blank">USNCCM19</a>) — <strong>abstract submissions are welcome!</strong>
+<strong>[Nov. 2026]</strong> We are organizing a symposium on <em>Artificial Intelligence in Computational Biomechanics and Mechanobiology</em> at the 19th U.S. National Congress on Computational Mechanics (<a href="https://usnccm19.usacm.org" target="_blank">USNCCM19</a>) — <strong>abstract submissions are welcome!</strong>
 <div style="clear: both;"></div>
 
 <img src="../images/Safety.png" width="150" height="100" style="float: left; margin-right: 10px;">
